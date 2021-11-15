@@ -1,13 +1,9 @@
-/*
- * To change this license header, choose License Headers in Project Properties.
- * To change this template file, choose Tools | Templates
- * and open the template in the editor.
- */
+
 package parcial2_ingenieria;
 
 /**
  *
- * @author WORK-PC
+ * @author Juan Alejandro Carrillo Jaimes
  */
 public class Parcial2_ingenieria {
 
@@ -16,6 +12,7 @@ public class Parcial2_ingenieria {
      */
     public static void main(String[] args) {
         // TODO code application logic here
+        System.out.println("Commit rama master");
     }
     
 }
